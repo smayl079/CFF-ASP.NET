@@ -1,0 +1,209 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\asgar\\Desktop\\CodeForFuture\\Asp Net\\MVCIntro\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3FA94601-53BF-479E-9AFD-30166835465C}|MVCIntro\\MVCIntro.csproj|c:\\users\\asgar\\desktop\\codeforfuture\\asp net\\mvcintro\\mvcintro\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FA94601-53BF-479E-9AFD-30166835465C}|MVCIntro\\MVCIntro.csproj|solutionrelative:mvcintro\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FA94601-53BF-479E-9AFD-30166835465C}|MVCIntro\\MVCIntro.csproj|c:\\users\\asgar\\desktop\\codeforfuture\\asp net\\mvcintro\\mvcintro\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FA94601-53BF-479E-9AFD-30166835465C}|MVCIntro\\MVCIntro.csproj|solutionrelative:mvcintro\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FA94601-53BF-479E-9AFD-30166835465C}|MVCIntro\\MVCIntro.csproj|c:\\users\\asgar\\desktop\\codeforfuture\\asp net\\mvcintro\\mvcintro\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FA94601-53BF-479E-9AFD-30166835465C}|MVCIntro\\MVCIntro.csproj|solutionrelative:mvcintro\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FA94601-53BF-479E-9AFD-30166835465C}|MVCIntro\\MVCIntro.csproj|c:\\users\\asgar\\desktop\\codeforfuture\\asp net\\mvcintro\\mvcintro\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FA94601-53BF-479E-9AFD-30166835465C}|MVCIntro\\MVCIntro.csproj|solutionrelative:mvcintro\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FA94601-53BF-479E-9AFD-30166835465C}|MVCIntro\\MVCIntro.csproj|c:\\users\\asgar\\desktop\\codeforfuture\\asp net\\mvcintro\\mvcintro\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FA94601-53BF-479E-9AFD-30166835465C}|MVCIntro\\MVCIntro.csproj|solutionrelative:mvcintro\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FA94601-53BF-479E-9AFD-30166835465C}|MVCIntro\\MVCIntro.csproj|c:\\users\\asgar\\desktop\\codeforfuture\\asp net\\mvcintro\\mvcintro\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FA94601-53BF-479E-9AFD-30166835465C}|MVCIntro\\MVCIntro.csproj|solutionrelative:mvcintro\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FA94601-53BF-479E-9AFD-30166835465C}|MVCIntro\\MVCIntro.csproj|c:\\users\\asgar\\desktop\\codeforfuture\\asp net\\mvcintro\\mvcintro\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FA94601-53BF-479E-9AFD-30166835465C}|MVCIntro\\MVCIntro.csproj|solutionrelative:mvcintro\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FA94601-53BF-479E-9AFD-30166835465C}|MVCIntro\\MVCIntro.csproj|c:\\users\\asgar\\desktop\\codeforfuture\\asp net\\mvcintro\\mvcintro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FA94601-53BF-479E-9AFD-30166835465C}|MVCIntro\\MVCIntro.csproj|solutionrelative:mvcintro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FA94601-53BF-479E-9AFD-30166835465C}|MVCIntro\\MVCIntro.csproj|c:\\users\\asgar\\desktop\\codeforfuture\\asp net\\mvcintro\\mvcintro\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FA94601-53BF-479E-9AFD-30166835465C}|MVCIntro\\MVCIntro.csproj|solutionrelative:mvcintro\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FA94601-53BF-479E-9AFD-30166835465C}|MVCIntro\\MVCIntro.csproj|c:\\users\\asgar\\desktop\\codeforfuture\\asp net\\mvcintro\\mvcintro\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FA94601-53BF-479E-9AFD-30166835465C}|MVCIntro\\MVCIntro.csproj|solutionrelative:mvcintro\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FA94601-53BF-479E-9AFD-30166835465C}|MVCIntro\\MVCIntro.csproj|c:\\users\\asgar\\desktop\\codeforfuture\\asp net\\mvcintro\\mvcintro\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FA94601-53BF-479E-9AFD-30166835465C}|MVCIntro\\MVCIntro.csproj|solutionrelative:mvcintro\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\asgar\\Desktop\\CodeForFuture\\Asp Net\\MVCIntro\\MVCIntro\\Views\\Contact\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCIntro\\Views\\Contact\\Index.cshtml",
+              "ToolTip": "C:\\Users\\asgar\\Desktop\\CodeForFuture\\Asp Net\\MVCIntro\\MVCIntro\\Views\\Contact\\Index.cshtml",
+              "RelativeToolTip": "MVCIntro\\Views\\Contact\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-08T13:49:42.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\asgar\\Desktop\\CodeForFuture\\Asp Net\\MVCIntro\\MVCIntro\\Views\\About\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCIntro\\Views\\About\\Index.cshtml",
+              "ToolTip": "C:\\Users\\asgar\\Desktop\\CodeForFuture\\Asp Net\\MVCIntro\\MVCIntro\\Views\\About\\Index.cshtml",
+              "RelativeToolTip": "MVCIntro\\Views\\About\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-08T13:49:20.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\asgar\\Desktop\\CodeForFuture\\Asp Net\\MVCIntro\\MVCIntro\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCIntro\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\asgar\\Desktop\\CodeForFuture\\Asp Net\\MVCIntro\\MVCIntro\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MVCIntro\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-08T13:40:37.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BlogController.cs",
+              "DocumentMoniker": "C:\\Users\\asgar\\Desktop\\CodeForFuture\\Asp Net\\MVCIntro\\MVCIntro\\Controllers\\BlogController.cs",
+              "RelativeDocumentMoniker": "MVCIntro\\Controllers\\BlogController.cs",
+              "ToolTip": "C:\\Users\\asgar\\Desktop\\CodeForFuture\\Asp Net\\MVCIntro\\MVCIntro\\Controllers\\BlogController.cs",
+              "RelativeToolTip": "MVCIntro\\Controllers\\BlogController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T13:39:14.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AboutController.cs",
+              "DocumentMoniker": "C:\\Users\\asgar\\Desktop\\CodeForFuture\\Asp Net\\MVCIntro\\MVCIntro\\Controllers\\AboutController.cs",
+              "RelativeDocumentMoniker": "MVCIntro\\Controllers\\AboutController.cs",
+              "ToolTip": "C:\\Users\\asgar\\Desktop\\CodeForFuture\\Asp Net\\MVCIntro\\MVCIntro\\Controllers\\AboutController.cs",
+              "RelativeToolTip": "MVCIntro\\Controllers\\AboutController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T13:38:45.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\asgar\\Desktop\\CodeForFuture\\Asp Net\\MVCIntro\\MVCIntro\\Program.cs",
+              "RelativeDocumentMoniker": "MVCIntro\\Program.cs",
+              "ToolTip": "C:\\Users\\asgar\\Desktop\\CodeForFuture\\Asp Net\\MVCIntro\\MVCIntro\\Program.cs",
+              "RelativeToolTip": "MVCIntro\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAiwAUAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T13:33:19.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\asgar\\Desktop\\CodeForFuture\\Asp Net\\MVCIntro\\MVCIntro\\Views\\Blog\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCIntro\\Views\\Blog\\Index.cshtml",
+              "ToolTip": "C:\\Users\\asgar\\Desktop\\CodeForFuture\\Asp Net\\MVCIntro\\MVCIntro\\Views\\Blog\\Index.cshtml",
+              "RelativeToolTip": "MVCIntro\\Views\\Blog\\Index.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-08T13:50:16.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\asgar\\Desktop\\CodeForFuture\\Asp Net\\MVCIntro\\MVCIntro\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCIntro\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\asgar\\Desktop\\CodeForFuture\\Asp Net\\MVCIntro\\MVCIntro\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "MVCIntro\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-08T13:50:04.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\asgar\\Desktop\\CodeForFuture\\Asp Net\\MVCIntro\\MVCIntro\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "MVCIntro\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\asgar\\Desktop\\CodeForFuture\\Asp Net\\MVCIntro\\MVCIntro\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "MVCIntro\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T13:39:04.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "C:\\Users\\asgar\\Desktop\\CodeForFuture\\Asp Net\\MVCIntro\\MVCIntro\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "MVCIntro\\Controllers\\ContactController.cs",
+              "ToolTip": "C:\\Users\\asgar\\Desktop\\CodeForFuture\\Asp Net\\MVCIntro\\MVCIntro\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "MVCIntro\\Controllers\\ContactController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T13:38:53.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\asgar\\Desktop\\CodeForFuture\\Asp Net\\MVCIntro\\MVCIntro\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MVCIntro\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\asgar\\Desktop\\CodeForFuture\\Asp Net\\MVCIntro\\MVCIntro\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MVCIntro\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T13:38:28.215Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

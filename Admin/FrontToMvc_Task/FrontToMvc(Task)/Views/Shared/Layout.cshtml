@@ -1,0 +1,241 @@
+﻿<!doctype html>
+<html class="no-js" lang="az">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>@ViewData["Title"] - Fusta Furniture</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Favicon -->
+    <link rel="shortcut icon" type="image/x-icon" href="~/assets/images/favicon.ico">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="~/assets/css/bootstrap.min.css">
+
+    <!-- Icon Font CSS -->
+    <link rel="stylesheet" href="~/assets/css/simple-line-icons.css">
+    <link rel="stylesheet" href="~/assets/css/ionicons.min.css">
+
+    <!-- Plugins CSS -->
+    <link rel="stylesheet" href="~/assets/css/plugins.css">
+
+    <!-- Main Style CSS -->
+    <link rel="stylesheet" href="~/assets/css/style.css">
+
+    <!-- Modernizer JS -->
+    <script src="~/assets/js/vendor/modernizr-2.8.3.min.js"></script>
+</head>
+
+<body>
+    <!-- Main Wrapper Start -->
+    <div class="main-wrapper">
+        <!-- header-area start -->
+        <div class="header-area">
+            <!-- header-top start -->
+            <div class="header-top">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-6 col-md-6">
+                            <p>Xoş gəlmisiniz! </p>
+                        </div>
+                        <div class="col-lg-6 col-md-6">
+                            <!-- language-currency-wrapper start -->
+                            <div class="language-currency-wrapper">
+                                <ul>
+                                    <li class="drodown-show">
+                                        <a href="#">₼ AZN <i class="ion-ios-arrow-down"></i></a>
+                                        <ul class="open-dropdown">
+                                            <li><a href="#">Euro €</a></li>
+                                            <li class="active"><a href="#">AZN ₼</a></li>
+                                        </ul>
+                                    </li>
+                                    <li class="drodown-show">
+                                        <a href="#"><img src="~/assets/images/icon/la-1.jpg" alt=""> Azərbaycan <i class="ion-ios-arrow-down"></i></a>
+                                        <ul class="open-dropdown">
+                                            <li class="active"><a href="#"><img src="~/assets/images/icon/la-1.jpg" alt=""> Azərbaycan </a></li>
+                                            <li><a href="#"><img src="~/assets/images/icon/la-2.jpg" alt=""> English</a></li>
+                                        </ul>
+                                    </li>
+                                </ul>
+                            </div>
+                            <!-- language-currency-wrapper end -->
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- header-top end -->
+
+            <div class="header-bottom-area header-sticky">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-2 col-md-5 col-5">
+                            <div class="logo">
+                                <a asp-controller="Home" asp-action="Index">
+                                    <img src="~/assets/images/logo/logo.jpg" alt="">
+                                </a>
+                            </div>
+                        </div>
+                        <div class="col-lg-8 d-none d-lg-block">
+                            <div class="main-menu-area text-center">
+                                <nav class="main-navigation">
+                                    <ul>
+                                        <li><a asp-controller="Home" asp-action="Index">Ana Səhifə</a></li>
+                                        <li><a asp-controller="Shop" asp-action="Index">Mağaza</a></li>
+                                        <li><a asp-controller="Blog" asp-action="Index">Bloq</a></li>
+                                        <li><a asp-controller="About" asp-action="Index">Haqqımızda</a></li>
+                                        <li><a asp-controller="Contact" asp-action="Index">Əlaqə</a></li>
+                                    </ul>
+                                </nav>
+                            </div>
+                        </div>
+                        <div class="col-lg-2 col-md-7 col-7">
+                            <div class="right-blok-box d-flex">
+                                <div class="search-wrap">
+                                    <a href="#" class="trigger-search"><i class="icon-magnifier"></i></a>
+                                </div>
+                                <div class="user-wrap">
+                                    <a asp-controller="Account" asp-action="Login"><i class="icon-user"></i></a>
+                                </div>
+                                <div class="shopping-cart-wrap">
+                                    <a href="#"><i class="icon-handbag"></i> <span id="cart-total">0</span></a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col">
+                            <div class="mobile-menu d-block d-lg-none"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- header-area end -->
+        <!-- main-search start -->
+        <div class="main-search-active">
+            <div class="sidebar-search-icon">
+                <button class="search-close"><span class="icon-close"></span></button>
+            </div>
+            <div class="sidebar-search-input">
+                <form asp-controller="Search" asp-action="Index" method="get">
+                    <div class="form-search">
+                        <input id="search" name="query" class="input-text" placeholder="Axtarış..." type="search">
+                        <button class="search-btn" type="submit">
+                            <i class="icon-magnifier"></i>
+                        </button>
+                    </div>
+                </form>
+            </div>
+        </div>
+        <!-- main-search end -->
+        <!-- Content -->
+        @RenderBody()
+
+        <!-- footer-area start -->
+        <footer class="footer-area">
+            <div class="footer-top pt--40 pb--100">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-4 col-md-12">
+                            <div class="footer-info mt--60">
+                                <div class="footer-title">
+                                    <h3>Əlaqə</h3>
+                                </div>
+                                <ul class="footer-info-list">
+                                    <li>
+                                        <i class="ion-ios-location-outline"></i> Bakı, Azərbaycan
+                                    </li>
+                                    <li>
+                                        <i class="ion-ios-email-outline"></i> Email: <a href="mailto:info@fusta.az">info@fusta.az</a>
+                                    </li>
+                                    <li>
+                                        <i class="ion-ios-telephone-outline"></i> Telefon: +994 12 XXX XX XX
+                                    </li>
+                                </ul>
+                                <div class="payment-cart">
+                                    <img src="~/assets/images/icon/1.png" alt="">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-2 col-md-4">
+                            <div class="footer-info mt--60">
+                                <div class="footer-title">
+                                    <h3>Kateqoriyalar</h3>
+                                </div>
+                                <ul class="footer-list">
+                                    <li><a href="#">Oturma otağı</a></li>
+                                    <li><a href="#">Yataq otağı</a></li>
+                                    <li><a href="#">Mətbəx</a></li>
+                                    <li><a href="#">Ofis mebeli</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="col-lg-2 offset-lg-1 col-md-4">
+                            <div class="footer-info mt--60">
+                                <div class="footer-title">
+                                    <h3>Məlumat</h3>
+                                </div>
+                                <ul class="footer-list">
+                                    <li><a asp-controller="Home" asp-action="Index">Ana Səhifə</a></li>
+                                    <li><a asp-controller="About" asp-action="Index">Haqqımızda</a></li>
+                                    <li><a asp-controller="Contact" asp-action="Index">Əlaqə</a></li>
+                                    <li><a href="#">Gizlilik Siyasəti</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="col-lg-2 offset-lg-1 col-md-4">
+                            <div class="footer-info mt--60">
+                                <div class="footer-title">
+                                    <h3>Sürətli Linklər</h3>
+                                </div>
+                                <ul class="footer-list">
+                                    <li><a href="#">Mağaza yeri</a></li>
+                                    <li><a href="#">Hesabım</a></li>
+                                    <li><a href="#">Sifariş izləmə</a></li>
+                                    <li><a asp-controller="Contact" asp-action="Index">Əlaqə</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-6 col-md-6">
+                            <div class="copyright">
+                                <p>Copyright © @DateTime.Now.Year Bütün hüquqlar qorunur.</p>
+                            </div>
+                        </div>
+                        <div class="col-lg-6 col-md-6">
+                            <div class="footer-social">
+                                <ul>
+                                    <li><a href="#"><i class="ion-social-twitter"></i></a></li>
+                                    <li><a href="#"><i class="ion-social-tumblr"></i></a></li>
+                                    <li><a href="#"><i class="ion-social-facebook"></i></a></li>
+                                    <li><a href="#"><i class="ion-social-instagram-outline"></i></a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </footer>
+        <!-- footer-area end -->
+    </div>
+    <!-- Main Wrapper End -->
+    <!-- jQuery JS -->
+    <script src="~/assets/js/vendor/jquery-1.12.0.min.js"></script>
+    <!-- Popper JS -->
+    <script src="~/assets/js/popper.min.js"></script>
+    <!-- Bootstrap JS -->
+    <script src="~/assets/js/bootstrap.min.js"></script>
+    <!-- Plugins JS -->
+    <script src="~/assets/js/plugins.js"></script>
+    <!-- Ajax Mail -->
+    <script src="~/assets/js/ajax-mail.js"></script>
+    <!-- Main JS -->
+    <script src="~/assets/js/main.js"></script>
+
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

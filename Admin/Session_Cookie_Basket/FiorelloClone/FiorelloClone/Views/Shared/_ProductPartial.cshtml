@@ -1,0 +1,57 @@
+﻿@model IEnumerable<Product>
+
+@if (Model != null && Model.Any())
+{
+    foreach (var item in Model)
+    {
+        <div class="col-sm-6 col-md-4 col-lg-3 mt-3 product">
+            <a asp-controller="Product"
+               asp-action="Details"
+               asp-route-id="@item.Id"
+               class="text-decoration-none text-dark d-block">
+
+                <div class="product-item text-center" data-id="@item.CategoryId" style="cursor:pointer;">
+                    <div class="img">
+                        <img src="~/img/@item.ProductImages.FirstOrDefault(m => !m.IsDeleted && m.IsMain)?.Image"
+                             class="img-fluid" alt="">
+                    </div>
+
+                    <div class="title mt-3">
+                        <h6 class="mb-1">@item.Name</h6>
+                        <h6 class="mb-0 text-muted">@item.Category?.Name</h6>
+                    </div>
+
+                    <div class="price mt-2 d-flex justify-content-center gap-3 align-items-center">
+                        <span class="text-black-50">
+                            <button type="button"
+                                    class="add-to-cart btn btn-link p-0"
+                                    data-id="@item.Id">
+                                Add to cart
+                            </button>
+                        </span>
+                        <span class="text-black-50">@item.Price</span>
+                    </div>
+                </div>
+
+            </a>
+        </div>
+    }
+}
+else
+{
+    <div class="col-12">
+        <p>No products found.</p>
+    </div>
+}
+
+<script src="~/js/customBasketAdd.js"></script>
+
+<script>
+    document.addEventListener("click", function (e) {
+        const btn = e.target.closest(".add-to-cart");
+        if (btn) {
+            e.preventDefault();
+            e.stopPropagation();
+        }
+    });
+</script>

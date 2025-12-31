@@ -1,0 +1,80 @@
+﻿@model HomeViewModel
+@{
+    ViewData["Title"] = "Home";
+}
+
+<!-- ===== SLIDER (DB-DƏN GƏLİR) ===== -->
+<div class="slider-active slick-slider">
+    @foreach (var slider in Model.Sliders)
+    {
+        <div class="single-slider bg_cover"
+             style="background-image:url('@slider.ImageUrl')">
+            <div class="slider-content">
+                <h2>@slider.Title</h2>
+
+                @if (!string.IsNullOrEmpty(slider.Subtitle))
+                {
+                    <p>@slider.Subtitle</p>
+                }
+
+                @if (!string.IsNullOrEmpty(slider.ButtonText))
+                {
+                    <a href="@slider.ButtonUrl" class="main-btn">
+                        @slider.ButtonText
+                    </a>
+                }
+            </div>
+        </div>
+    }
+</div>
+<section class="category-area category-bg pt-100 pb-100">
+    <div class="container-fluid custom-container">
+        <div class="row justify-content-center">
+            <div class="col-lg-6">
+                <div class="section-title text-center pb-30">
+                    <h2 class="title">Featured Categories</h2>
+                </div>
+            </div>
+        </div>
+
+        <div class="row category-active">
+            @foreach (var category in Model.Categories)
+            {
+                <div class="col-lg-2">
+                    <div class="single-category text-center">
+                        <a href="@Url.Action("Index", "Shop", new { categoryId = category.Id })">
+                            <img src="@category.ImageUrl" alt="@category.Name" />
+                            <p>@category.Name</p>
+                        </a>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+</section>
+
+
+<div class="tab-pane fade show active" id="new">
+    <div class="row product-active">
+        @foreach (var product in Model.NewProducts)
+        {
+            <div class="col-lg-2">
+                <div class="single-product mt-30">
+                    <div class="product-image">
+                        <a href="#">
+                            <img class="first-image" src="@product.ImageUrl" />
+                            <img class="second-image" src="@product.SecondImageUrl" />
+                        </a>
+                    </div>
+
+                    <div class="product-content">
+                        <h4 class="product-title">@product.Title</h4>
+                        <div class="product-price">
+                            <span class="price-sale">$@product.Price</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>

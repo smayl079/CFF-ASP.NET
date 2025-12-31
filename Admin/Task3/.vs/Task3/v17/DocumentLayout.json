@@ -1,0 +1,226 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\asgar\\Desktop\\CodeForFuture\\Asp Net\\Task3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6DEC52-BCC2-472D-A9BB-F0658B5D6AF0}|Task3\\Task3.csproj|c:\\users\\asgar\\desktop\\codeforfuture\\asp net\\task3\\task3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8D6DEC52-BCC2-472D-A9BB-F0658B5D6AF0}|Task3\\Task3.csproj|solutionrelative:task3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6DEC52-BCC2-472D-A9BB-F0658B5D6AF0}|Task3\\Task3.csproj|c:\\users\\asgar\\desktop\\codeforfuture\\asp net\\task3\\task3\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D6DEC52-BCC2-472D-A9BB-F0658B5D6AF0}|Task3\\Task3.csproj|solutionrelative:task3\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6DEC52-BCC2-472D-A9BB-F0658B5D6AF0}|Task3\\Task3.csproj|c:\\users\\asgar\\desktop\\codeforfuture\\asp net\\task3\\task3\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D6DEC52-BCC2-472D-A9BB-F0658B5D6AF0}|Task3\\Task3.csproj|solutionrelative:task3\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6DEC52-BCC2-472D-A9BB-F0658B5D6AF0}|Task3\\Task3.csproj|c:\\users\\asgar\\desktop\\codeforfuture\\asp net\\task3\\task3\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8D6DEC52-BCC2-472D-A9BB-F0658B5D6AF0}|Task3\\Task3.csproj|solutionrelative:task3\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6DEC52-BCC2-472D-A9BB-F0658B5D6AF0}|Task3\\Task3.csproj|c:\\users\\asgar\\desktop\\codeforfuture\\asp net\\task3\\task3\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8D6DEC52-BCC2-472D-A9BB-F0658B5D6AF0}|Task3\\Task3.csproj|solutionrelative:task3\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6DEC52-BCC2-472D-A9BB-F0658B5D6AF0}|Task3\\Task3.csproj|c:\\users\\asgar\\desktop\\codeforfuture\\asp net\\task3\\task3\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8D6DEC52-BCC2-472D-A9BB-F0658B5D6AF0}|Task3\\Task3.csproj|solutionrelative:task3\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6DEC52-BCC2-472D-A9BB-F0658B5D6AF0}|Task3\\Task3.csproj|c:\\users\\asgar\\desktop\\codeforfuture\\asp net\\task3\\task3\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8D6DEC52-BCC2-472D-A9BB-F0658B5D6AF0}|Task3\\Task3.csproj|solutionrelative:task3\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6DEC52-BCC2-472D-A9BB-F0658B5D6AF0}|Task3\\Task3.csproj|c:\\users\\asgar\\desktop\\codeforfuture\\asp net\\task3\\task3\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8D6DEC52-BCC2-472D-A9BB-F0658B5D6AF0}|Task3\\Task3.csproj|solutionrelative:task3\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6DEC52-BCC2-472D-A9BB-F0658B5D6AF0}|Task3\\Task3.csproj|c:\\users\\asgar\\desktop\\codeforfuture\\asp net\\task3\\task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D6DEC52-BCC2-472D-A9BB-F0658B5D6AF0}|Task3\\Task3.csproj|solutionrelative:task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6DEC52-BCC2-472D-A9BB-F0658B5D6AF0}|Task3\\Task3.csproj|c:\\users\\asgar\\desktop\\codeforfuture\\asp net\\task3\\task3\\models\\base\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D6DEC52-BCC2-472D-A9BB-F0658B5D6AF0}|Task3\\Task3.csproj|solutionrelative:task3\\models\\base\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6DEC52-BCC2-472D-A9BB-F0658B5D6AF0}|Task3\\Task3.csproj|c:\\users\\asgar\\desktop\\codeforfuture\\asp net\\task3\\task3\\models\\base\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D6DEC52-BCC2-472D-A9BB-F0658B5D6AF0}|Task3\\Task3.csproj|solutionrelative:task3\\models\\base\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6DEC52-BCC2-472D-A9BB-F0658B5D6AF0}|Task3\\Task3.csproj|c:\\users\\asgar\\desktop\\codeforfuture\\asp net\\task3\\task3\\models\\base\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D6DEC52-BCC2-472D-A9BB-F0658B5D6AF0}|Task3\\Task3.csproj|solutionrelative:task3\\models\\base\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\asgar\\Desktop\\CodeForFuture\\Asp Net\\Task3\\Task3\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Task3\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\asgar\\Desktop\\CodeForFuture\\Asp Net\\Task3\\Task3\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Task3\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-12T06:41:39.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\asgar\\Desktop\\CodeForFuture\\Asp Net\\Task3\\Task3\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Task3\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\asgar\\Desktop\\CodeForFuture\\Asp Net\\Task3\\Task3\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Task3\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAiwGcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-12T06:41:38.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\asgar\\Desktop\\CodeForFuture\\Asp Net\\Task3\\Task3\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Task3\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\asgar\\Desktop\\CodeForFuture\\Asp Net\\Task3\\Task3\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Task3\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-12T06:41:34.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\asgar\\Desktop\\CodeForFuture\\Asp Net\\Task3\\Task3\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Task3\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\asgar\\Desktop\\CodeForFuture\\Asp Net\\Task3\\Task3\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Task3\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T06:24:53.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\asgar\\Desktop\\CodeForFuture\\Asp Net\\Task3\\Task3\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Task3\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\asgar\\Desktop\\CodeForFuture\\Asp Net\\Task3\\Task3\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Task3\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-12T06:41:26.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Slider.cs",
+              "DocumentMoniker": "C:\\Users\\asgar\\Desktop\\CodeForFuture\\Asp Net\\Task3\\Task3\\Models\\Base\\Slider.cs",
+              "RelativeDocumentMoniker": "Task3\\Models\\Base\\Slider.cs",
+              "ToolTip": "C:\\Users\\asgar\\Desktop\\CodeForFuture\\Asp Net\\Task3\\Task3\\Models\\Base\\Slider.cs",
+              "RelativeToolTip": "Task3\\Models\\Base\\Slider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T06:37:11.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\asgar\\Desktop\\CodeForFuture\\Asp Net\\Task3\\Task3\\Models\\Base\\Product.cs",
+              "RelativeDocumentMoniker": "Task3\\Models\\Base\\Product.cs",
+              "ToolTip": "C:\\Users\\asgar\\Desktop\\CodeForFuture\\Asp Net\\Task3\\Task3\\Models\\Base\\Product.cs",
+              "RelativeToolTip": "Task3\\Models\\Base\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T06:36:58.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\asgar\\Desktop\\CodeForFuture\\Asp Net\\Task3\\Task3\\Models\\Base\\Category.cs",
+              "RelativeDocumentMoniker": "Task3\\Models\\Base\\Category.cs",
+              "ToolTip": "C:\\Users\\asgar\\Desktop\\CodeForFuture\\Asp Net\\Task3\\Task3\\Models\\Base\\Category.cs",
+              "RelativeToolTip": "Task3\\Models\\Base\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T06:36:46.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\asgar\\Desktop\\CodeForFuture\\Asp Net\\Task3\\Task3\\Program.cs",
+              "RelativeDocumentMoniker": "Task3\\Program.cs",
+              "ToolTip": "C:\\Users\\asgar\\Desktop\\CodeForFuture\\Asp Net\\Task3\\Task3\\Program.cs",
+              "RelativeToolTip": "Task3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T06:32:13.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\asgar\\Desktop\\CodeForFuture\\Asp Net\\Task3\\Task3\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Task3\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\asgar\\Desktop\\CodeForFuture\\Asp Net\\Task3\\Task3\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "Task3\\Context\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T06:31:12.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\asgar\\Desktop\\CodeForFuture\\Asp Net\\Task3\\Task3\\appsettings.json",
+              "RelativeDocumentMoniker": "Task3\\appsettings.json",
+              "ToolTip": "C:\\Users\\asgar\\Desktop\\CodeForFuture\\Asp Net\\Task3\\Task3\\appsettings.json",
+              "RelativeToolTip": "Task3\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-12T06:33:32.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\asgar\\Desktop\\CodeForFuture\\Asp Net\\Task3\\Task3\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Task3\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\asgar\\Desktop\\CodeForFuture\\Asp Net\\Task3\\Task3\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Task3\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-12T06:42:06.873Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
